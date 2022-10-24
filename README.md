@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to my profile!
+I am TaygaHoshi, a computer engineer student. I like open source software and data sets. [This is a link to my website](https://tyghsh.net).
 
-<!--
-**TaygaHoshi/TaygaHoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Current Project
+I am currently focusing on university and learning new things, so I am not working on anything public. 
 
-Here are some ideas to get you started:
+#### Past Projects
+My important projects are [a pvp/wvw/raid team generator script for Guild Wars 2](https://github.com/TaygaHoshi/GW2TeamGenerator) and [a Japanese " i+1" sentence scraper](https://github.com/TaygaHoshi/japanese-i-plus-one-filter).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My inspiration for the GW2TG project was the amount of manual labor that goes into a guild. Being a former guild master, I knew managing tournaments with players from different skill levels correctly was difficult. This script reduced the time and work by automating almost every step.
+
+The sentence scraper was built for helping me collect "i+1" sentences to learn Japanese. This terminology comes from a language learning method called Mass Immersion Approach, which is an implementation of [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis).
+
+I have various other smaller projects too, so have fun checking my Github profile.
+
+[Buy me a coffee!](https://buymeacoffee.com/TaygaHoshi)
