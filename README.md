@@ -12,5 +12,3 @@ My inspiration for the GW2TG project was the amount of manual labor that goes in
 The sentence scraper was built for helping me collect "i+1" sentences to learn Japanese. This terminology comes from a language learning method called Mass Immersion Approach, which is an implementation of [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis).
 
 I have various other smaller projects too, so have fun checking my Github profile.
-
-[Buy me a coffee!](https://buymeacoffee.com/TaygaHoshi)
