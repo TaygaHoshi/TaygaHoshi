@@ -1,9 +1,6 @@
 ### Welcome to my profile!
 I am TaygaHoshi, a computer engineer student. I like open source software and data sets. [This is a link to my website](https://tyghsh.net).
 
-#### Current Project
-Currently, I am not working on any public project.
-
 #### Past Projects
 My important projects are [a pvp/wvw/raid team generator script for Guild Wars 2](https://github.com/TaygaHoshi/GW2TeamGenerator) and [a Japanese " i+1" sentence scraper](https://github.com/TaygaHoshi/japanese-i-plus-one-filter).
 
