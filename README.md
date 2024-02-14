@@ -1,5 +1,5 @@
 ### Welcome to my profile!
-I am TaygaHoshi, a computer engineer student. I like open source software.
+I am TaygaHoshi, a computer engineer currently working in DevOps. I like open source software.
 
 #### Past Projects
 My important projects are [a pvp/wvw/raid team generator script for Guild Wars 2](https://github.com/TaygaHoshi/GW2TeamGenerator) and [a Japanese " i+1" sentence scraper](https://github.com/TaygaHoshi/japanese-i-plus-one-filter).
