@@ -3,7 +3,7 @@ I am TaygaHoshi, welcome to my profile.
 
 ## Current Projects
 I am currently working on two projects:
-1. [Sigil of Uchma](https://sigil.tyghsh.cc) is an open source Tabletop RPG.
+1. [Sigil of Uchma](https://sigil.tyghsh.cc) is an open source fantasy Tabletop RPG, based on mythologies of medieval Central Asian societies.
 2. TadanoChess is a QT-based desktop database for chess analysis. It is currently closed source and heavily work in progress, but I plan to open source it as GPLv3 soon.
 
 ## Past Projects
