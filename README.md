@@ -21,4 +21,4 @@ CopierPaster is a templater for project structures. It can be used for quickly b
 
 yaml-to-gui is a converter that takes a YAML file and creates a corresponding GUI. It is written in C++.
 
-I also have various smaller projects, so have fun checking my GitHub profile.
+I also have other projects of various sizes, so feel free to check out my GitHub profile.
